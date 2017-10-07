@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DCC196 SQLintro 2</string>
+    <string name="ano">Ano</string>
+    <string name="autor_do_livro">Autor do Livro</string>
+    <string name="editora_do_livro">Editora do Livro</string>
+    <string name="pre_o">Preço</string>
+    <string name="t_tulo_do_livro">Título do Livro</string>
+    <string name="salvar">Salvar</string>
+</resources>
